@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TellMedia</string>
+    <string name="bouton">Envoyer</string>
+    <string name="message">message : </string>
+    <string name="username">Username : </string>
+    <string name="firstname">First Name : </string>
+    <string name="lastname">Last Name : </string>
+    <string name="password">Password : </string>
+    <string name="valider">Valider</string>
+
+
+</resources>
+
